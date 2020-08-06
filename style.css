@@ -13,6 +13,7 @@ body {
     scroll-snap-type: y mandatory;
     scroll-snap-points-y: repeat(100vh);
     height: 100vh;
+    background: black;
 }
 
 div {
